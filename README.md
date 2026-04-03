@@ -20,7 +20,7 @@ Mental health issues such as depression are increasingly reflected in social med
 ## Results
 - Best model: MLPClassifier (Accuracy 0.74, F1-Score 0.74)
 - Low overfitting (train-test gap: 0.03)
-## Tools
+## Tech Stack
 - Python
 - Pandas, NumPy
 - scikit-learn
